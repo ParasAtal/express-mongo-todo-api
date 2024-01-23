@@ -1,2 +1,3 @@
 # express-mongo-todo-api
-Express.js and MongoDB Todo App backend with Mongoose ODM. RESTful API, MongoDB Compass for database, and Postman for API testing. Explore, contribute, and use as a reference for Node.js and MongoDB projects.
+The Project files are present on the master branch.
+Click on the dropdown button and switch to 'master' to view code.
